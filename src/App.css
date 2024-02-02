@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url('https://www.shutterstock.com/image-photo/beautiful-view-nandi-hills-during-260nw-2335167127.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 90vh;
+  overflow: hidden;
+}
