@@ -15,7 +15,7 @@ const WeatherForm = () => {
         'snow showers': 'bi bi-snow',
     };
 
-    // Public apis are not free,Used Mock data for Reference
+    // Used Mock data for Reference,checked public Apis but asking for subcription
     const mockData = {
         mumbai: {
             current: { temperature: 32, humidity: 80, description: 'Hazy', wind: { speed: 5, direction: 'W' } },
